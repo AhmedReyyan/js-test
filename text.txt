@@ -1,0 +1,2 @@
+this text is read by a js program and ouptput will be 14 words
+
